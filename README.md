@@ -7,3 +7,5 @@ This will simply grab the data from the HEB vacceenee endpoint and show you whic
 There's a sloppy hardcoded match for AUSTIN or others if wanted
 
 The only files that are really involved are src/App.js  and src/App.css
+
+TODO: it updates every second but now the endpoint seems to be caching for 60 seconds - need to look into that
