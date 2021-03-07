@@ -1,6 +1,14 @@
 # vaccslapper
 Slappin the Vaccin
 
+Getting Access-Control-Allow-Origin errors?
+WITH CHROME USE THE APP:
+CORS Unblock
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
+----------------------------------------------------------------------------------------------------------
+
+
+
 
 This will simply grab the data from the HEB vacceenee endpoint and show you which ones have appointments and sorts em alpha.
 
